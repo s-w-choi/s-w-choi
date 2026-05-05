@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="header.svg" width="100%" alt="header" />
-</div>
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/%EC%84%B1%EC%9B%90-%EC%B5%9C-8610b8231/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
@@ -42,15 +38,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=s-w-choi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=s-w-choi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=s-w-choi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="48%" />
+<img src="https://streak-stats.demolab.com?user=s-w-choi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="48%" />
 
 </div>
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-w-choi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s-w-choi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
