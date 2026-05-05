@@ -25,7 +25,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=s-w-choi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
-  <img src="https://streak-stats.demolab.com?user=s-w-choi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=3FB950&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="170" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s-w-choi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
 </div>
 
